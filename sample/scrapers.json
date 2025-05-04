@@ -3,10 +3,10 @@
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/eztv.json"	
 	],
 	"2": [
-		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/piratebay.json"
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/torrentdownload.json"
 	],
 	"3": [
-		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/limetorrents.json"
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/btdb.json"
 	],
 	"4": [
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/torrentz2.json"
