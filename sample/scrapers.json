@@ -1,17 +1,17 @@
 {
 	"1": [	
-		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/eztv.json"	
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/disabled/eztv.json"	
 	],
 	"2": [
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/torrentdownload.json"
 	],
 	"3": [
-		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/btdb.json"
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/disabled/btdb.json"
 	],
 	"4": [
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/torrentz2.json"
 	],	
 	"5": [
-		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_DebridOnly/maxrls.json"
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/disabled/maxrls.json"
 	]
 }
